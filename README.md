@@ -6,4 +6,4 @@ Goes over the DI and MVC patterns
 - Create a new Scene context in the inspector 
 - ![Screenshot 2023-11-21 165711](https://github.com/wes-kay/unity-tutorial-mvc-ui/assets/40011470/88192916-8676-4897-911a-e4262cae0981)
 - Add the mono installer `UIInstaller` to the Context
-![image](https://github.com/wes-kay/unity-tutorial-mvc-ui/assets/40011470/6d627c83-28b3-4c95-b247-4dcd6f2a06e3)
+- ![image](https://github.com/wes-kay/unity-tutorial-mvc-ui/assets/40011470/6d627c83-28b3-4c95-b247-4dcd6f2a06e3)
